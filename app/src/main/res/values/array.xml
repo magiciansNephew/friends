@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <!--1-->
+        <item>Bill Clinton Maharjan</item>
+        <!--2-->
+        <item>Sulav Poudel</item>
+        <!--3-->
+        <item>Anish Maharjan</item>
+        <!--4-->
+        <item>Kiran Shahi</item>
+        <!--5-->
+        <item>Shiva Hari Koirala</item>
+        <!--6-->
+        <item>Saroj Tamang</item>
+        <!--7-->
+        <item>Trijan Manandhar</item>
+        <!--8-->
+        <item>Ashish Adhikari</item>
+        <!--9-->
+        <item>Gaurab Karki</item>
+        <!--10-->
+        <item>Roshan Gurung</item>
+        <!--11-->
+        <item>Prayash Sapkota</item>
+        <!--12-->
+        <item>Ashish Rawal</item>
+        <!--13-->
+        <item>Anjana Lama</item>
+        <!--14-->
+        <item>Nitesh Bagale</item>
+        <!--15-->
+        <item>Pranab Subedi</item>
+        <!--16-->
+        <item>Rupesh Karki</item>
+        <!--17-->
+        <item>Sagar Bakhati</item>
+        <!--18-->
+        <item>Nishant Thakur</item>
+        <!--19-->
+        <item>Susan Shrestha</item>
+        <!--20-->
+        <item>Basudev Acharya</item>
+    </string-array>
+    <string-array name="numbers">
+        <!--1-->
+        <item>9860310633</item>
+        <!--2-->
+        <item>9843443777</item>
+        <!--3-->
+        <item>9860033020</item>
+        <!--4-->
+        <item>9843792316</item>
+        <!--5-->
+        <item>9843876090</item>
+        <!--6-->
+        <item>1234567890</item>
+        <!--7-->
+        <item>9813798388</item>
+        <!--8-->
+        <item>9843539558</item>
+        <!--9-->
+        <item>0123456789</item>
+        <!--10-->
+        <item>0123456789</item>
+        <!--11-->
+        <item>9843027896</item>
+        <!--12-->
+        <item>9823026820</item>
+        <!--13-->
+        <item>9840168217</item>
+        <!--14-->
+        <item>9801882099</item>
+        <!--15-->
+        <item>9860127858</item>
+        <!--16-->
+        <item>9843743002</item>
+        <!--17-->
+        <item>9860779753</item>
+        <!--18-->
+        <item>9804839203</item>
+        <!--19-->
+        <item>9813972009</item>
+        <!--20-->
+        <item>9860976440</item>
+    </string-array>
+
+</resources>
