@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         val dataSource = DataSource()
 
-        val letters = dataSource.loadLetters(this)
+        val letters = dataSource.loadLetters()
 
         val recyclerView: RecyclerView = findViewById(R.id.recycler_view)
         recyclerView.adapter = LetterAdapter(letters, this)
