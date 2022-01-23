@@ -30,13 +30,16 @@ class DataSource {
 
     // Function to load Contact list
     fun loadContacts(): List<Contact> {
-        val names = contactsMap.keys.toList()
-        val numbers = contactsMap.values.toList()
         val contactList = mutableListOf<Contact>()
+        contactList.forEach{ (k, v) -> contactList.add(Contact(k, v)) }
+        return contactList
+    }
 
-        for (i in names.indices) {
-            contactList.add(Contact(names[i], numbers[i]))
-        }
+    // Function to load Contacts starting with the given letter
+    fun loadStartingWith(letter: String): List<Contact> {
+        val filteredMap = contactsMap.filter { (key) -> key.startsWith(letter) }
+        val contactList = mutableListOf<Contact>()
+        filteredMap.forEach{ (k, v) -> contactList.add(Contact(k, v)) }
         return contactList
     }
 

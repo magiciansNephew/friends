@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Friends</string>
+    <string name="action_switch_layout">action_switch_layout</string>
 </resources>
